@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://handsome-friend-06d.notion.site/image/attachment%3Aac6a5019-3871-4378-aba8-e74077a70960%3Aimage.png?table=block&id=1b4d7e34-faf7-806d-86ca-e0d79266a51e&spaceId=e42c1663-90bb-4820-8583-f7c7720e6438&width=760&userId=&cache=v2" />
+  <img src="https://handsome-friend-06d.notion.site/image/attachment%3A55f6ec80-2c53-46f0-85f6-6d42e959b085%3A038d0e03-1875-4769-b97c-6d9461dc7b0d.png?table=block&id=1b4d7e34-faf7-807c-baca-cc778f7c4027&spaceId=e42c1663-90bb-4820-8583-f7c7720e6438&width=1040&userId=&cache=v2" />
+  
 </div>
 
 
@@ -78,6 +79,6 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="mailto:jiy87452@gmail.com">
     <img
-      src="https://img.shields.io/badge/jiy87542@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/jiy87452@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
