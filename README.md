@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://handsome-friend-06d.notion.site/image/attachment%3A55f6ec80-2c53-46f0-85f6-6d42e959b085%3A038d0e03-1875-4769-b97c-6d9461dc7b0d.png?table=block&id=1b4d7e34-faf7-807c-baca-cc778f7c4027&spaceId=e42c1663-90bb-4820-8583-f7c7720e6438&width=1040&userId=&cache=v2" />
+  <img src="https://handsome-friend-06d.notion.site/image/attachment%3A2de7a014-5df8-4d6d-88f7-d4868d590d81%3A153333e2-398a-436b-9d62-ecef6a71589b.png?table=block&id=1b4d7e34-faf7-802f-97f5-fec0942328b1&spaceId=e42c1663-90bb-4820-8583-f7c7720e6438&width=1040&userId=&cache=v2" />
   
 </div>
 
